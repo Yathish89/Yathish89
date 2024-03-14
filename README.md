@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yathish89&label=Profile%20views&color=0e75b6&style=flat" alt="yathish89" /> </p>
 
-- 🔭 I’m currently working on [DriverEd](https://drivered.ca/)
+- 🔭 Completed my work on [DriverEd](https://drivered.ca/)
 
 - 🌱 I’m currently learning **Flutter,React,MangoDb**
 
